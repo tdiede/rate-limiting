@@ -1,0 +1,16 @@
+{
+  "name": "rate-limited-api",
+  "version": "1.0.0",
+  "description": "Fetching data from a rate limited API",
+  "main": "src/index.js",
+  "author": "Peter Herbert (p-herbert)",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
